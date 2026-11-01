@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>غماس بلدي | صواني وكباب</title>
+<meta name="description" content="قائمة طعام مطعم غماس بلدي: ساندويتشات ووجبات، مشاوي، صواني، صاجيات، مقبلات ومشروبات.">
+<meta name="theme-color" content="#a81f27">
+<link rel="icon" href="assets/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="nav" id="nav">
+  <a class="nav__brand" href="#home" aria-label="غماس بلدي"><img src="assets/logo.png" alt="شعار غماس بلدي" width="44" height="44"></a>
+  <nav class="nav__links" aria-label="التنقل الرئيسي">
+    <a href="#home">Home</a><a href="#menu">Menu</a><a href="#about">About Us</a><a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<main>
+<section class="hero" id="home">
+  <img class="hero__logo" src="assets/logo.png" alt="شعار مطعم غماس بلدي" width="260" height="260">
+  <h1>غماس بلدي</h1>
+  <p class="hero__tag">صواني وكباب</p>
+  <a class="btn" href="#menu">View Menu <span>تصفّح القائمة</span></a>
+  <div class="hero__strip" aria-hidden="true" id="strip"></div>
+</section>
+
+<section class="menu" id="menu">
+  <div class="tools">
+    <label class="search"><span class="sr">ابحث في القائمة</span>
+      <input id="q" type="search" placeholder="ابحث عن وجبة…" autocomplete="off"></label>
+    <div class="chips" id="chips" role="tablist" aria-label="أقسام القائمة"></div>
+  </div>
+  <div id="sections"></div>
+  <p class="empty" id="empty" hidden>لا توجد نتائج مطابقة. جرّب كلمة أخرى أو اختر «الكل».</p>
+  <p class="note" id="note"></p>
+</section>
+
+<section class="about" id="about">
+  <h2 class="tear">About Us <small>عن المطعم</small></h2>
+  <p>غماس بلدي مطعم صواني وكباب. تجدون في قائمتنا الساندويتشات والوجبات، مشاوي غماس بلدي، الصواني، الصاجيات، المقبلات والمشروبات.</p>
+</section>
+
+<section class="contact" id="contact">
+  <h2 class="tear">Contact <small>تواصل معنا</small></h2>
+  <ul id="contactList"></ul>
+</section>
+</main>
+
+<footer class="foot">
+  <h2>فروعنا</h2>
+  <ul>
+    <li>عمان - شارع المدينة المنورة</li>
+    <li>عمان - شارع مكة - مجمع الداوود</li>
+    <li>عمان - طبربور - دوار الدبابة</li>
+  </ul>
+</footer>
+<script src="data/menu.js"></script>
+<script src="data/config.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
