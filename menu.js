@@ -18,7 +18,7 @@ window.MENU = {
        "value": "2.50"
       }
      ],
-     "img": "assets/img/01.webp"
+     "img": "01.webp"
     },
     {
      "name": "كباب دجاج بالجبنة",
@@ -32,7 +32,7 @@ window.MENU = {
        "value": "2.25"
       }
      ],
-     "img": "assets/img/02.webp"
+     "img": "02.webp"
     },
     {
      "name": "شيش طاووق",
@@ -46,7 +46,7 @@ window.MENU = {
        "value": "2.00"
       }
      ],
-     "img": "assets/img/03.webp"
+     "img": "03.webp"
     },
     {
      "name": "معلاق",
@@ -60,7 +60,7 @@ window.MENU = {
        "value": "2.25"
       }
      ],
-     "img": "assets/img/04.webp"
+     "img": "04.webp"
     },
     {
      "name": "لف غماس دجاج",
@@ -74,7 +74,7 @@ window.MENU = {
        "value": "3.25"
       }
      ],
-     "img": "assets/img/05.webp"
+     "img": "05.webp"
     },
     {
      "name": "لف غماس لحم",
@@ -88,7 +88,7 @@ window.MENU = {
        "value": "3.75"
       }
      ],
-     "img": "assets/img/06.webp"
+     "img": "06.webp"
     },
     {
      "name": "كباب بالباذنجان",
@@ -102,7 +102,7 @@ window.MENU = {
        "value": "2.90"
       }
      ],
-     "img": "assets/img/07.webp"
+     "img": "07.webp"
     },
     {
      "name": "ليه",
@@ -116,7 +116,7 @@ window.MENU = {
        "value": "2.00"
       }
      ],
-     "img": "assets/img/08.webp"
+     "img": "08.webp"
     },
     {
      "name": "روسية",
@@ -130,7 +130,7 @@ window.MENU = {
        "value": "5.50"
       }
      ],
-     "img": "assets/img/09.webp",
+     "img": "09.webp",
      "desc": "سيخين كباب وسيخ ليه"
     },
     {
@@ -145,7 +145,7 @@ window.MENU = {
        "value": "5.00"
       }
      ],
-     "img": "assets/img/10.webp",
+     "img": "10.webp",
      "desc": "سيخين معلاق وسيخ ليه"
     }
    ]
@@ -162,7 +162,7 @@ window.MENU = {
        "value": "22.00"
       }
      ],
-     "img": "assets/img/11.webp"
+     "img": "11.webp"
     },
     {
      "name": "نص كيلو كباب",
@@ -172,7 +172,7 @@ window.MENU = {
        "value": "11.00"
       }
      ],
-     "img": "assets/img/12.webp"
+     "img": "12.webp"
     },
     {
      "name": "كيلو شيش طاووق",
@@ -182,7 +182,7 @@ window.MENU = {
        "value": "18.00"
       }
      ],
-     "img": "assets/img/13.webp"
+     "img": "13.webp"
     },
     {
      "name": "نص كيلو شيش طاووق",
@@ -192,7 +192,7 @@ window.MENU = {
        "value": "9.00"
       }
      ],
-     "img": "assets/img/14.webp"
+     "img": "14.webp"
     },
     {
      "name": "كيلو مشكل",
@@ -202,7 +202,7 @@ window.MENU = {
        "value": "24.00"
       }
      ],
-     "img": "assets/img/15.webp"
+     "img": "15.webp"
     }
    ]
   },
@@ -218,7 +218,7 @@ window.MENU = {
        "value": "6.00"
       }
      ],
-     "img": "assets/img/16.webp"
+     "img": "16.webp"
     },
     {
      "name": "صينية كفتة ببندورة",
@@ -228,7 +228,7 @@ window.MENU = {
        "value": "6.00"
       }
      ],
-     "img": "assets/img/17.webp"
+     "img": "17.webp"
     },
     {
      "name": "صينية زهرة والطحينية",
@@ -238,7 +238,7 @@ window.MENU = {
        "value": "5.55"
       }
      ],
-     "img": "assets/img/18.webp"
+     "img": "18.webp"
     },
     {
      "name": "صينية فوارغ",
@@ -248,7 +248,7 @@ window.MENU = {
        "value": "7.50"
       }
      ],
-     "img": "assets/img/19.webp"
+     "img": "19.webp"
     },
     {
      "name": "صينية بطاطا",
@@ -258,7 +258,7 @@ window.MENU = {
        "value": "7.00"
       }
      ],
-     "img": "assets/img/20.webp"
+     "img": "20.webp"
     },
     {
      "name": "صينية منزلة بيتنجان",
@@ -268,7 +268,7 @@ window.MENU = {
        "value": "6.50"
       }
      ],
-     "img": "assets/img/21.webp"
+     "img": "21.webp"
     }
    ]
   },
@@ -284,7 +284,7 @@ window.MENU = {
        "value": "5.95"
       }
      ],
-     "img": "assets/img/22.webp"
+     "img": "22.webp"
     },
     {
      "name": "صاجية دجاج",
@@ -294,7 +294,7 @@ window.MENU = {
        "value": "4.50"
       }
      ],
-     "img": "assets/img/23.webp"
+     "img": "23.webp"
     },
     {
      "name": "صاجية معلاق",
@@ -304,7 +304,7 @@ window.MENU = {
        "value": "5.25"
       }
      ],
-     "img": "assets/img/24.webp"
+     "img": "24.webp"
     },
     {
      "name": "قلاية بندورة باللحمة",
@@ -314,7 +314,7 @@ window.MENU = {
        "value": "4.75"
       }
      ],
-     "img": "assets/img/25.webp"
+     "img": "25.webp"
     }
    ]
   },
@@ -330,7 +330,7 @@ window.MENU = {
        "value": "2.08"
       }
      ],
-     "img": "assets/img/26.webp"
+     "img": "26.webp"
     },
     {
      "name": "غماس صحي",
@@ -340,7 +340,7 @@ window.MENU = {
        "value": "5.75"
       }
      ],
-     "img": "assets/img/27.webp"
+     "img": "27.webp"
     },
     {
      "name": "حمص باللحمة",
@@ -350,7 +350,7 @@ window.MENU = {
        "value": "4.75"
       }
      ],
-     "img": "assets/img/28.webp"
+     "img": "28.webp"
     },
     {
      "name": "بطاطا مقلية",
@@ -360,7 +360,7 @@ window.MENU = {
        "value": "0.75"
       }
      ],
-     "img": "assets/img/29.webp"
+     "img": "29.webp"
     }
    ]
   },
@@ -376,7 +376,7 @@ window.MENU = {
        "value": "1.30"
       }
      ],
-     "img": "assets/img/30.webp"
+     "img": "30.webp"
     },
     {
      "name": "متبل",
@@ -386,7 +386,7 @@ window.MENU = {
        "value": "1.30"
       }
      ],
-     "img": "assets/img/31.webp"
+     "img": "31.webp"
     },
     {
      "name": "بقدونسية",
@@ -396,7 +396,7 @@ window.MENU = {
        "value": "1.75"
       }
      ],
-     "img": "assets/img/32.webp"
+     "img": "32.webp"
     },
     {
      "name": "طحينية",
@@ -406,7 +406,7 @@ window.MENU = {
        "value": "2.15"
       }
      ],
-     "img": "assets/img/33.webp"
+     "img": "33.webp"
     },
     {
      "name": "سلطة فلاحية",
@@ -416,7 +416,7 @@ window.MENU = {
        "value": "1.65"
       }
      ],
-     "img": "assets/img/34.webp"
+     "img": "34.webp"
     },
     {
      "name": "فتوش",
@@ -426,7 +426,7 @@ window.MENU = {
        "value": "1.90"
       }
      ],
-     "img": "assets/img/35.webp"
+     "img": "35.webp"
     },
     {
      "name": "سلطة حارة",
@@ -436,7 +436,7 @@ window.MENU = {
        "value": "1.60"
       }
      ],
-     "img": "assets/img/36.webp"
+     "img": "36.webp"
     },
     {
      "name": "سلطة جرجير",
@@ -446,7 +446,7 @@ window.MENU = {
        "value": "1.90"
       }
      ],
-     "img": "assets/img/37.webp"
+     "img": "37.webp"
     },
     {
      "name": "خيار بلبن",
@@ -456,7 +456,7 @@ window.MENU = {
        "value": "1.60"
       }
      ],
-     "img": "assets/img/38.webp"
+     "img": "38.webp"
     },
     {
      "name": "سلطة غماس",
@@ -466,7 +466,7 @@ window.MENU = {
        "value": "2.15"
       }
      ],
-     "img": "assets/img/39.webp"
+     "img": "39.webp"
     },
     {
      "name": "سلطة عربية",
@@ -476,7 +476,7 @@ window.MENU = {
        "value": "1.65"
       }
      ],
-     "img": "assets/img/40.webp"
+     "img": "40.webp"
     },
     {
      "name": "بصلية",
@@ -486,7 +486,7 @@ window.MENU = {
        "value": "1.90"
       }
      ],
-     "img": "assets/img/41.webp"
+     "img": "41.webp"
     },
     {
      "name": "برغل",
@@ -496,7 +496,7 @@ window.MENU = {
        "value": "1.25"
       }
      ],
-     "img": "assets/img/42.webp"
+     "img": "42.webp"
     },
     {
      "name": "رز ابيض",
@@ -506,7 +506,7 @@ window.MENU = {
        "value": "1.50"
       }
      ],
-     "img": "assets/img/43.webp"
+     "img": "43.webp"
     }
    ]
   },
@@ -522,7 +522,7 @@ window.MENU = {
        "value": "1.90"
       }
      ],
-     "img": "assets/img/44.webp"
+     "img": "44.webp"
     },
     {
      "name": "سموذي باشن",
@@ -532,7 +532,7 @@ window.MENU = {
        "value": "1.90"
       }
      ],
-     "img": "assets/img/45.webp"
+     "img": "45.webp"
     },
     {
      "name": "سموذي خوخ",
@@ -542,7 +542,7 @@ window.MENU = {
        "value": "1.90"
       }
      ],
-     "img": "assets/img/46.webp"
+     "img": "46.webp"
     },
     {
      "name": "مكس فروت",
@@ -552,7 +552,7 @@ window.MENU = {
        "value": "2.75"
       }
      ],
-     "img": "assets/img/47.webp"
+     "img": "47.webp"
     },
     {
      "name": "موهيتو مكس بيري",
@@ -562,7 +562,7 @@ window.MENU = {
        "value": "1.60"
       }
      ],
-     "img": "assets/img/48.webp"
+     "img": "48.webp"
     },
     {
      "name": "موهيتو بلو اوشن",
@@ -572,7 +572,7 @@ window.MENU = {
        "value": "1.60"
       }
      ],
-     "img": "assets/img/49.webp"
+     "img": "49.webp"
     },
     {
      "name": "موهيتو باشن فروت",
@@ -582,7 +582,7 @@ window.MENU = {
        "value": "1.60"
       }
      ],
-     "img": "assets/img/50.webp"
+     "img": "50.webp"
     },
     {
      "name": "موهيتو كلاسيك",
@@ -592,7 +592,7 @@ window.MENU = {
        "value": "1.60"
       }
      ],
-     "img": "assets/img/51.webp"
+     "img": "51.webp"
     },
     {
      "name": "برتقال",
@@ -602,7 +602,7 @@ window.MENU = {
        "value": "2.50"
       }
      ],
-     "img": "assets/img/52.webp"
+     "img": "52.webp"
     },
     {
      "name": "ليمون ونعنع",
@@ -612,7 +612,7 @@ window.MENU = {
        "value": "2.50"
       }
      ],
-     "img": "assets/img/53.webp"
+     "img": "53.webp"
     },
     {
      "name": "رمان",
@@ -622,7 +622,7 @@ window.MENU = {
        "value": "2.80"
       }
      ],
-     "img": "assets/img/54.webp"
+     "img": "54.webp"
     },
     {
      "name": "فراولة",
@@ -632,7 +632,7 @@ window.MENU = {
        "value": "2.50"
       }
      ],
-     "img": "assets/img/55.webp"
+     "img": "55.webp"
     },
     {
      "name": "فراولة ومانجا",
@@ -642,7 +642,7 @@ window.MENU = {
        "value": "2.50"
       }
      ],
-     "img": "assets/img/56.webp"
+     "img": "56.webp"
     },
     {
      "name": "باشن غماس",
@@ -652,7 +652,7 @@ window.MENU = {
        "value": "2.70"
       }
      ],
-     "img": "assets/img/57.webp"
+     "img": "57.webp"
     }
    ]
   },
@@ -668,7 +668,7 @@ window.MENU = {
        "value": "0.50"
       }
      ],
-     "img": "assets/img/58.webp"
+     "img": "58.webp"
     },
     {
      "name": "قهوة",
@@ -678,7 +678,7 @@ window.MENU = {
        "value": "1.50"
       }
      ],
-     "img": "assets/img/59.webp"
+     "img": "59.webp"
     }
    ]
   }
