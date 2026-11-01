@@ -40,8 +40,7 @@ $('#q').addEventListener('input',()=>render(false));
 // hero strip: real dish photos from the menu
 const pick=['01','18','28','37','50','59'];
 const strip=$('#strip');
-pick.forEach((n,i)=>{const im=el('img');im.src='assets/img/'+n+'.webp';im.alt='';im.style.animationDelay=(.6+i*.08)+'s';strip.appendChild(im)});
-// contact (only fields that have values)
+pick.forEach((n,i)=>{const im=el('img');im.src=n+'.webp';im.alt='';im.style.animationDelay=(.6+i*.08)+'s';strip.appendChild(im)});
 const L=$('#contactList');
 const add=(txt,href)=>{const li=el('li');if(href){const a=el('a',null,txt);a.href=href;a.target='_blank';a.rel='noopener';li.appendChild(a)}else li.textContent=txt;L.appendChild(li)};
 if(C.phone)add('اتصل: '+C.phone,'tel:'+C.phone.replace(/^0/,'+962'));
